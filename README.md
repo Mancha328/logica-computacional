@@ -15,3 +15,8 @@ Rebeca Mancha
 ## Herramientas
 - Pseudocódigo.
 - GitHub.
+  
+## Lo que aprendí
+- Un repositorio sirve para guardar todos los archivos de un proyecto junto con su historial de cambios.
+- Un commit sirve para registrar un conjunto de cambios con un mensaje que explique qué se hizo.
+- Una rama sirve para probar o preparar mejoras sin tocar la versión principal hasta que estén revisadas.
